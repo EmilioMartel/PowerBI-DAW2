@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: rgb(123, 123, 149);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./bg3.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    text-align: center;
+}
